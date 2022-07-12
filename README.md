@@ -21,11 +21,11 @@ A list of my resources, courses, notes and tips about programming.
 
 ## Web3 Resources
 
-- [buildspace.so](buildspace.so), can earn NFT
-- [useweb3.xyz](useweb3.xyz)
-- [web3.university](http://web3.university)
-- [speedrunethereum.com](http://speedrunethereum.com)
-- [cryptozombies.io](http://cryptozombies.io)
+- [buildspace.so](https://buildspace.so), can earn NFT
+- [useweb3.xyz](https://useweb3.xyz)
+- [web3.university](https://web3.university)
+- [speedrunethereum.com](https://speedrunethereum.com)
+- [cryptozombies.io](https://cryptozombies.io)
 
 ## System Design
 
