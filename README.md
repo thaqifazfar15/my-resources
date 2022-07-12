@@ -15,6 +15,10 @@ A list of my resources, courses, notes and tips about programming.
 
 - in progress
 
+## Full Stack Software Enginner
+
+- [The Odin Project](https://www.theodinproject.com/), this is the best resources for learning.
+
 ## Web3 Resources
 
 - [buildspace.so](buildspace.so), can earn NFT
