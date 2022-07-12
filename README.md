@@ -13,7 +13,7 @@ A list of my resources, courses, notes and tips about programming.
 
 ## Front End Library and Framework
 
-- in progress
+- [Scrimba Learn React](https://scrimba.com/learn/learnreact), interactive ReactJS course.
 
 ## Full Stack Software Enginner
 
