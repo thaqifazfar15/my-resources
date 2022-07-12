@@ -4,6 +4,7 @@ A list of my resources, courses, notes and tips about programming.
 
 ## Learn New Language
 
+- [Exercism](https://exercism.org/tracks)
 - [Typescript Official Docs](https://www.typescriptlang.org/docs/handbook/intro.html)
 
 ## Data Structure and Algorithyms
