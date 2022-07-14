@@ -6,6 +6,14 @@ A list of my resources, courses, notes and tips about programming.
 
 - [Exercism](https://exercism.org/tracks)
 - [Typescript Official Docs](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Rust Community Docs](https://doc.rust-lang.org/book/title-page.html)
+
+- Color Palettes
+- [Tailwind Color Palettes](https://tailwindcss.com/docs/customizing-colors)
+
+## SVG Icons
+
+- [Material Design Icons](https://materialdesignicons.com/)
 
 ## Data Structure and Algorithyms
 
